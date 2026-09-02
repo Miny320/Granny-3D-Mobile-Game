@@ -85,6 +85,3 @@ crashlytics-build.properties
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.webm filter=lfs diff=lfs merge=lfs -text
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
